@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Site is hosted at https://adityavyas611.github.io/monsters-rolodex/
 
 ## Available Scripts
 
